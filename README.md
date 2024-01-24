@@ -15,4 +15,4 @@ Developed an intuitive and efficient Todo Web Application using HTML, CSS, and J
 - **Intuitive User Interface:** Designed a user-friendly interface for easy navigation and task tracking.
 
 
-(View the application!)[https://vingutha.github.io/TODO/]
+[View the application!](https://vingutha.github.io/TODO/)
